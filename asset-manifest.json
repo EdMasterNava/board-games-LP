@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.js": "/bjj-reg/static/js/main.31d6cfe0.js",
-    "index.html": "/bjj-reg/index.html"
+    "main.js": "/board-games-LP/static/js/main.31d6cfe0.js",
+    "index.html": "/board-games-LP/index.html"
   },
   "entrypoints": [
     "static/js/main.31d6cfe0.js"
